@@ -9,7 +9,9 @@ Feel free to explore my repositories, collaborate, or just say hi! 😊
 <table>
  <thead>
   <tr>
-   <th style=""padding:6px 13px;><img src="https://github-readme-streak-stats.herokuapp.com/?user=acnbokhb12&theme=white&hide_border=true" alt="GitHub Streak" style="max-width: 100%;"></th>
+   <th>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanhhn-dev&theme=dracula&hide_border=true" alt="GitHub Streak">
+   </th>
   </tr>
  </thead>
 </table>
@@ -17,8 +19,12 @@ Feel free to explore my repositories, collaborate, or just say hi! 😊
 <table>
  <thead>
   <tr>
-   <th style=""padding:6px 13px;><img src="https://github-readme-stats.vercel.app/api?username=acnbokhb12&theme=white&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 100%;" ></th>
-   <th style=""padding:6px 13px;><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acnbokhb12&theme=white&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Streak" style="max-width: 100%;"></th>
+   <th>
+    <img src="https://github-readme-stats.vercel.app/api?username=khanhhn-dev&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
+   </th>
+   <th>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhhn-dev&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Top Languages">
+   </th>
   </tr>
  </thead>
 </table>
