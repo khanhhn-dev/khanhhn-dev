@@ -17,7 +17,7 @@ Feel free to explore my repositories, collaborate, or just say hi! 😊
 <img src="https://camo.githubusercontent.com/29dc417ac40a731bc6402b5746e5e4b9e5cd37b3172d61887339bdd8699a7b54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6963726f736f6674253230617a7572652d3030383944363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d617a757265266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white" style="max-width: 100%;">
 </div>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=khanhhn-dev&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=khanhhn-dev&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <p align="center">
