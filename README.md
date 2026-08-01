@@ -3,7 +3,7 @@
 Hi there! I'm Khanh
 Backend Developer 
 Feel free to explore my repositories, collaborate, or just say hi! 😊  
-# Tech Stack:
+<h3 class="heading-element" dir="auto">Tech Stack</h3>
 <div style="display: flex;">
 
 <img src="https://camo.githubusercontent.com/79a41bb31345d2ee1a85c3da2c104a15ef126af3fa9f3322cb7e149819815198/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d637368617270266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" style="max-width: 100%;">
